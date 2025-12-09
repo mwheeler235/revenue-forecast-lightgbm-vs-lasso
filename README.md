@@ -14,8 +14,8 @@ Our goals are to understand the best granularity for modeling coffee revenue acr
 
 | Model | Overall R² | MAPE | Features Used |
 |-------|------------|------|---------------|
-| **Lasso** | 0.786 | 40.4% | 15/25 selected |
-| LightGBM | 0.686 | 37.4% | 25 features |
+| **Lasso** | 0.73.5 | 31.2% | 11/25 selected |
+| LightGBM | 0.517 | 39.3% | 25 features |
 
 ## Models Evaluated
 
